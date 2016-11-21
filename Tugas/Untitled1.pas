@@ -1,4 +1,0 @@
-program Untitled;
-begin
-
-end.
