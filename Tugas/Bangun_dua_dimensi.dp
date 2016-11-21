@@ -1,0 +1,15 @@
+[Project]
+FileName=E:\Pascal\Bangun_dua_dimensi.dp
+Name=Bangun_dua_dimensi
+MainUnit=E:\Pascal\Persegi_Panjang.pas
+UnitCount=1
+ResFiles=E:\Pascal\rsrc.rc
+NoConsole=1
+IsDll=0
+Icon=C:\Dev-Pas\bin\Mainicon.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=
+[Unit1]
+FileName=E:\Pascal\Persegi_Panjang.pas
+FileTime=1229685664

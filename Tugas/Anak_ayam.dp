@@ -1,0 +1,15 @@
+[Project]
+FileName=E:\Pascal\Tugas\Anak_ayam.dp
+Name=Anak_ayam
+MainUnit=E:\Pascal\Tugas\Anak.pas
+UnitCount=1
+ResFiles=E:\Pascal\Tugas\rsrc.rc
+NoConsole=1
+IsDll=0
+Icon=C:\Dev-Pas\Icon\Mainicon.ico
+CompilerOptions=
+IncludeDirs=
+ObjFile=
+[Unit1]
+FileName=E:\Pascal\Tugas\Anak.pas
+FileTime=1229759349
